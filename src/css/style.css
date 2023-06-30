@@ -1,0 +1,30 @@
+body{
+    background-color: #f0faf1;
+}
+
+.containers{
+    height: 650px;
+    background-color: #f0faf1;
+}
+
+.section--box{
+    height: 95%;
+}
+
+.section--img{
+    width: 100%;
+    height: 96%;
+}
+
+.aside--box{
+    margin: 0px;
+    height: 47.5%;
+}
+
+.text{
+    padding: 35px;
+}
+
+.text>a{
+    color: black;
+}
